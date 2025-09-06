@@ -109,12 +109,12 @@ const socials = [
   },
   {
     name: "X (Twitter)",
-    icon: "/images/x.png",
+    icon: "/images/linkedin.png",
     url: "#",
   },
   {
     name: "Facebook",
-    icon: "/images/fb.png",
+    icon: "/images/github.png",
     url: "#",
   },
 ];
