@@ -8,8 +8,8 @@ const navLinks = [
     title: "About Us",
   },
   {
-    id: "work",
-    title: "The Art",
+    id: "art",
+    title: "Art",
   },
   {
     id: "contact",
@@ -85,14 +85,16 @@ const goodLists = [
   "Freshly muddled flavors",
 ];
 
-const storeInfo = {
+const storeInfo = [{
   heading: "Where to Find Us",
+  subHeading: "Visit Our Bar",
   address: "456, Raq Blvd. #404, Los Angeles, CA 90210",
   contact: {
     phone: "(555) 987-6543",
     email: "hello@jsmcocktail.com",
-  },
-};
+  }
+}
+];
 
 const openingHours = [
   { day: "Mon–Thu", time: "11:00am – 12am" },
@@ -105,17 +107,17 @@ const socials = [
   {
     name: "Instagram",
     icon: "/images/insta.png",
-    url: "#",
+    url: "https://www.instagram.com/vishal._264_/",
   },
   {
-    name: "X (Twitter)",
+    name: "Linkedin",
     icon: "/images/linkedin.png",
-    url: "#",
+    url: "https://www.linkedin.com/in/vishal-ravindra-patil/",
   },
   {
-    name: "Facebook",
+    name: "Github",
     icon: "/images/github.png",
-    url: "#",
+    url: "https://github.com/CodeX047",
   },
 ];
 
