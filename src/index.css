@@ -365,6 +365,10 @@ body {
       p {
         @apply lg:text-2xl 2xl:text-3xl text-sm;
       }
+
+      img {
+        @apply w-[30px]
+      }
     }
 
     .drink-img {
