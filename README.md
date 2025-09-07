@@ -116,8 +116,8 @@ const About = () => {
 
 ## Screenshots
 
-![Screenshot 1](./public/images/SS1.png)
-![Screenshot 2](./public/images/SS2.png)
+![Screenshot 1](./Img/SS1.png)
+![Screenshot 2](./Img/SS2.png)
 
 ## Badges
 
